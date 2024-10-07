@@ -1,5 +1,11 @@
 # **Kubernetes End-to-End Project on AWS EKS**
+---
 
+
+https://github.com/user-attachments/assets/7d6757bd-afea-481f-9180-bf95811ee668
+
+
+---
 Welcome! This project showcases how to set up a Kubernetes cluster on AWS using EKS and Fargate, then deploy a sample game application (2048). You’ll find clear instructions on how to replicate the setup on your own, even if you're new to Kubernetes or AWS.
 
 ## **Project Overview**
